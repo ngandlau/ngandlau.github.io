@@ -1,0 +1,12 @@
+body {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Roboto Mono', monospace;
+    margin: 1em;
+	background-color: #efefef;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
