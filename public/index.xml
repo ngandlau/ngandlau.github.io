@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nils notes</title>
+    <link>https://nilsgandlau.de/</link>
+    <description>Recent content on nils notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nilsgandlau.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Notes: The Story of More</title>
+      <link>https://nilsgandlau.de/posts/the-story-of-more/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nilsgandlau.de/posts/the-story-of-more/</guid>
+      <description>Productivity of crops Every crop (rice, wheat, soybean, &amp;hellip;) around the world became &amp;gt;2x more productive in the last 50 years. Yields increased x-fold while farmland only increased relatively little (by 10% compared to 50 years ago). The increase in yield while holding farmland constant is the result of 3 factors:
+(1) we feed plants better now then we did then (we feed them by adding fertilizer to the soil) (2) we protect them better (we protect them from bacteria, fungi, animals, weed by adding &amp;ldquo;pesticides&amp;rdquo;) (3) we have improved the plants themselves (we use selective breeding or genetic engineering to have the most productive plants)</description>
+    </item>
+    
+  </channel>
+</rss>
