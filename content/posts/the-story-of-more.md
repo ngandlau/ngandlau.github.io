@@ -10,10 +10,9 @@ Every crop (rice, wheat, soybean, ...) around the world became >2x more producti
 Yields increased x-fold while farmland only increased relatively little (by 10% compared to 50 years ago).
 The increase in yield while holding farmland constant is the result of 3 factors: 
  
-  (1) we feed plants better now then we did then (we feed them by adding fertilizer to the soil)
-  (2) we protect them better (we protect them from bacteria, fungi, animals, weed by adding "pesticides")
-  (3) we have improved the plants themselves (we use selective breeding or genetic engineering to have the most productive plants)
-
+1. we feed plants better now then we did then (we feed them by adding fertilizer to the soil)
+2. we protect them better (we protect them from bacteria, fungi, animals, weed by adding "pesticides")
+3. we have improved the plants themselves (we use selective breeding or genetic engineering to have the most productive plants)
 
 > "10% of the world's croplands are planted with GMO crops"
 
@@ -22,7 +21,7 @@ We are already eating (indirectly) genetically modified food.
 
 ## Farming
 
-Every plant needs water and nutrients to survive and grow.
+> Every plant needs water and nutrients to survive and grow.
 It gets those from only one place: the soil beneath it.
 In monoculture farming, the soil is forced to be the perfect environment for monoculture growth.
 This is achieved by adding nutrients in the form of fertilizers, and water by way of irrigation.
