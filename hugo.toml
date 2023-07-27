@@ -1,4 +1,4 @@
 baseURL = 'https://nilsgandlau.de'
 languageCode = 'en-us'
 title = 'nils notes'
-theme = "hugo-blog-awesome"
+theme = "hugo-dead-simple"
