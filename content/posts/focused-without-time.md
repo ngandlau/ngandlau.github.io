@@ -1,5 +1,5 @@
 ---
-title: "thought: work when you feel like it"
+title: "#thought -- work when you feel like it"
 date: 2023-07-27T21:54:01+02:00
 draft: false
 ---
@@ -24,7 +24,11 @@ Samstage und Sonntage sind losgelöst von irgendwelchen Sprint-Targets und Jira-
 An Samstagen und Sonntagen hab ich Zeit, neue Ideen ausprobieren.
 Habe Zeit zum Brainstormen. Zum Experimentieren.
 
-Wochentage engen mich ein, Wochenende geben mir Raum. 
+Wochentage engen mich ein, Wochenenden geben mir Raum. Zeit engt mich ein, Zeitlosigkeit gibt mir Raum. 
 
 In der Arbeitswelt muss man sich die Frage stellen: **Unterdrücke ich mit der für normale Arbeitstage vorgegebenen Struktur (Meetings, Mittagspause, 9:00-17:00 Arbeitszeiten) die Kreativität meiner Mitarbeiter?**
+
+Eine **Taktik**, um in die "Zone" zu kommen, ist jegliche Uhren auszublenden. Wenn ich am Computer arbeite, dann habe ich jede App auf Vollbild, damit ich die Zeit nicht sehe. Ein kleiner, aber wirksamer Hack.
+
+
 

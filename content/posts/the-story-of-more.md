@@ -1,5 +1,5 @@
 ---
-title: "Book Notes: The Story of More"
+title: "#book -- the story of more"
 date: 2023-07-21
 draft: false
 toc: true
