@@ -4,6 +4,10 @@ date: 2023-07-21
 draft: false
 ---
 
+Notes based on the book [The Story of More by Hope Jahren](https://www.amazon.de/Story-More-Climate-Change-Where/dp/0525563385).
+
+![](https://m.media-amazon.com/images/I/41b7+WOgC0L._SX322_BO1,204,203,200_.jpg)
+
 ## Productivity of crops
 
 Every crop (rice, wheat, soybean, ...) around the world became >2x more productive in the last 50 years. 
@@ -20,7 +24,6 @@ We are already eating (indirectly) genetically modified food.
 
 
 ## Farming
-
 > Every plant needs water and nutrients to survive and grow.
 It gets those from only one place: the soil beneath it.
 In monoculture farming, the soil is forced to be the perfect environment for monoculture growth.
@@ -49,7 +52,6 @@ Thus DNA is like a long recipe book, where each recipe describes how to make a p
 
 
 ## meat
-
 > "we need to talk about meat because we are eating so incredibly much of it." 
 (300M tons meat per year, 3x since 1970)
 
@@ -87,38 +89,29 @@ Personal comment: Der Gedanke ist gruselig, dass wir Lebewesen so verändert hab
 
 ## sugar 
 
-"convenience food" = a term coined by General Foods in 1950s
-
 > "As of 2010, half of the money Americans spend on food goes to convenience foods."
-
 > "By 2005, Americans were getting half of their total calories from restaurants."
-
 In 2004, Americans ate 1.5 pound (=0.7kg) sugar per week.
-
 > "Every American man, woman, and child still drinks upward of one liter of cola per week."
-
 > "Today, sugared beverages are the cheapest (and emptiest) calories that can be purchased and make up a full 10 percent of all the calories that Americans consume."
 Corn sugar, HFCS
 
 ## waste 
-
 Bridges, railroads, sewers are not in good shape. Most infrastructure has not received an upgrade for decades, while the amount of stress on these infrastructures has increased (due to population growth).
 
 > "...this trend: major infrastructure built in the 1930s, expanded during the 1950s, minor upgrades during the 1980s and 1990s, and not much since."
-
 > "...the fact that global population has doubled since 1969. This also means that the amount of human waste produced on planet Earth has more than doubled, given that food consumption has increased greatly within many regions. Our ability to deal with this waste has not kept up, and today, a larger number of people than ever before live within conditions of inadequate sanitation."
 
 
 ## fossil fuels
-
 Fossil fuels are finite. The rate of fossil fuel usage is growing. At current rates of usage, we have left: oil for 50 years, natural gas for 50 years, coal for 150 years (this calculation only considers the *known knowns* of oil/gas/coal resources).
 
 You have to look at **absolute** and **relative** usage of fossil fuels in order to have a full picture. In **absolute terms**, we are using fossil fuels at an every increasing rate. Every year, in absolute terms, we are using more fossil fuels. In **relative terms**, the share of energy derived from fossil fuels decreased in the last decade, as we increased the amount of energy derived from solar, wind, and water.
 
 There is a mismatch between who *has* fossil fuels (e.g. Saudi Arabia has 50% of oil) and who uses it (e.g. America uses most of oil). This changes the relationship of power.
 
-**biofuels**: Biofuels are made by fermenting crops (e.g. corn in US, sugarcane in Brazil) to create Alcohol, which in turn is mixed with existing fuel in order to extend it. 
-
+## biofuels 
+Biofuels are made by fermenting crops (e.g. corn in US, sugarcane in Brazil) to create Alcohol, which in turn is mixed with existing fuel in order to extend it. 
 * To produce biofuels, we take some % of our (partly edible!) harvest and to produce fuels.
 * 20% of grain on planet Earth is used for biofuels.
 * The rate of conversion is often very inefficient: it takes 20kg of sugarcane to produce 1L of biofuel.
@@ -126,8 +119,8 @@ There is a mismatch between who *has* fossil fuels (e.g. Saudi Arabia has 50% of
 
 Our civilization depends on fossil fuel. "We are a fossil fuel civilization" (#TODO: link to Vaclav Smil). We not only burn fossil fuels, but we also make products of it. Most of our bumpers, doors, tires are made of *petroleum-derived polymeres*. 
 
-**Plastics** are derived from fossil fuels. Oil refineries convert crude oil (Rohöl) into useful products such as kerosine, diesel fuel, propan, and **petrochemical feedstock**. And the latter is used to make plastics.
-
+## plastics 
+Plastics are derived from fossil fuels. Oil refineries convert crude oil (Rohöl) into useful products such as kerosine, diesel fuel, propan, and **petrochemical feedstock**. And the latter is used to make plastics.
 * 300M tons of plastics are produced each year
 * most plastic is produced for disposable packaging
 * 1 bodyweight per year of disposable plastics packaging wasted every year by an average OECD person
@@ -136,7 +129,6 @@ Our civilization depends on fossil fuel. "We are a fossil fuel civilization" (#T
 
 
 ## renewables
-
 * 1 average-sized nuclear power plant is equivalent to 80 hydro power plants
 * US is still big on nuclear. 20% of electricity produced in US is nuclear. The US has 100 power plants.
 * almost every (!) power plant (nuclear, hydro, wind, solar) produces energy the same way: by spinning a wheel. There is a pole of iron, wrapped with copper. If you spin that next to a magnet, somehow the mechanical energy is converted into electrical energy ("any sufficiently advanced technology is indistinguishable from magic" -- Arthur C. Clarke).
