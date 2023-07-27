@@ -108,6 +108,25 @@ Bridges, railroads, sewers are not in good shape. Most infrastructure has not re
 
 > "...the fact that global population has doubled since 1969. This also means that the amount of human waste produced on planet Earth has more than doubled, given that food consumption has increased greatly within many regions. Our ability to deal with this waste has not kept up, and today, a larger number of people than ever before live within conditions of inadequate sanitation."
 
+
+## fossil fuels
+
+Fossil fuels are finite. At current rates of usage, we have:
+* oil for ~50 years
+* natural gas for ~50 years
+* coal for ~150 years
+
+* But the rate of usage is growing.
+* There is a mismatch between who *has* fossil fuels (e.g. Saudi Arabia has 50% of oil) and who uses it (e.g. America uses most of oil).
+* **biofuels**
+  * biofuels are made from crops (that could otherwise be used for food, though biofuels is in parts made of the inedible parts of the crops).
+  * biofuels are produced by means of fermentation. anything that contains carbohydrates can be fermented into alcohol, Ethanol. The produced alcohol is then mixed with gasoline to extend it.
+  * essentially, we take some % of our harvest and convert it into fuels, or, rather, to create liquids to mix with existing fuels in order to extend them.
+  * biofuels are considered *renewable* because corn, sugarcane, ... grow every year.
+  * the problem with biofuels is that you (1) convert partly edible food into fuels. And (2) the biofuel may be "renewable" in some sense, but it is not really green, because to produce the crops you still have to pay the typical agriculture costs of irrigation, fertilizers, pesticides. And (3) the conversion rate is pretty bad, e.g. you need 20kg sugarcane to produce 1L of biofuel.
+  * as of today, 20% of grain on planet Earth is used for biofuels.
+  * we essentially use our harvest to produce fuels, because we have so much demand of it.
+  * there are geopolitical reasons: for example, the US can produce its own biofuel from its home-grown corn. This reduces the US's dependence on fossil fuel imports from other parts of the world, especially the Middle East.
 ## more quotes 
 
 > "every single field crop that I rsearched ... shared a substantial increase in yield over the last half century"
