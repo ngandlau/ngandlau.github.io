@@ -113,6 +113,8 @@ Bridges, railroads, sewers are not in good shape. Most infrastructure has not re
 
 Fossil fuels are finite. The rate of fossil fuel usage is growing. At current rates of usage, we have left: oil for 50 years, natural gas for 50 years, coal for 150 years (this calculation only considers the *known knowns* of oil/gas/coal resources).
 
+You have to look at **absolute** and **relative** usage of fossil fuels in order to have a full picture. In **absolute terms**, we are using fossil fuels at an every increasing rate. Every year, in absolute terms, we are using more fossil fuels. In **relative terms**, the share of energy derived from fossil fuels decreased in the last decade, as we increased the amount of energy derived from solar, wind, and water.
+
 There is a mismatch between who *has* fossil fuels (e.g. Saudi Arabia has 50% of oil) and who uses it (e.g. America uses most of oil). This changes the relationship of power.
 
 **biofuels**: Biofuels are made by fermenting crops (e.g. corn in US, sugarcane in Brazil) to create Alcohol, which in turn is mixed with existing fuel in order to extend it. 
@@ -122,6 +124,34 @@ There is a mismatch between who *has* fossil fuels (e.g. Saudi Arabia has 50% of
 * The rate of conversion is often very inefficient: it takes 20kg of sugarcane to produce 1L of biofuel.
 * The reason we produce biofuels is, in parts, political: It is a way to produce domestically, hence reducing the dependency on fossil fuel imports from foreign countries, especially from those in the Middle East. The US produces biofuel from their domestic corn produce.
 
+Our civilization depends on fossil fuel. "We are a fossil fuel civilization" (#TODO: link to Vaclav Smil). We not only burn fossil fuels, but we also make products of it. Most of our bumpers, doors, tires are made of *petroleum-derived polymeres*. 
+
+**Plastics** are derived from fossil fuels. Oil refineries convert crude oil (Rohöl) into useful products such as kerosine, diesel fuel, propan, and **petrochemical feedstock**. And the latter is used to make plastics.
+
+* 300M tons of plastics are produced each year
+* most plastic is produced for disposable packaging
+* 1 bodyweight per year of disposable plastics packaging wasted every year by an average OECD person
+* 10% of disposed plastics finds its way into the sea.
+* plastics amounts for 10% of all burned on planet Earth every year
+
+
+## renewables
+
+* 1 average-sized nuclear power plant is equivalent to 80 hydro power plants
+* US is still big on nuclear. 20% of electricity produced in US is nuclear. The US has 100 power plants.
+* almost every (!) power plant (nuclear, hydro, wind, solar) produces energy the same way: by spinning a wheel. There is a pole of iron, wrapped with copper. If you spin that next to a magnet, somehow the mechanical energy is converted into electrical energy ("any sufficiently advanced technology is indistinguishable from magic" -- Arthur C. Clarke).
+* The problem with renewables is that they will never be enough to provide our high electricity usage. To power a city of 100,000 inhabitans, you need:
+  * 10 medium-sized hydro plants 
+  * or 1,000 wind turbines
+  * or 1M solar panels
+* In contrast, only 500 nuclear power plants are enough to supply all of America's electricity.
+* A large part of cadmium, copper, lead, zinc, lithium, tellerium used in turbines that create electricity comes from two countries: Peru and Chile.
+
+## plants
+
+Plants need two things to grow: energy and carbon. The energy comes from the sun. The carbon comes from carbon dioxide, a gas that is found in our air. Thus, in the biomass of plants, there is lots of energy and lots of carbon. When we burn plants, we release both that energy and the carbon. This is the problem with burning fossil fuels: Whenever we burn plants to "produce" energy, we release CO2 into the atmosphere as a side effect.
+
+You can think of "burning" plants in a broader sense. When we eat plant-based food, we, in some sense, "burn" plants in order to use its inherent energy.
 
 # more quotes 
 
