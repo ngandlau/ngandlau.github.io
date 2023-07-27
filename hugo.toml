@@ -2,3 +2,15 @@ baseURL = 'https://nilsgandlau.de'
 languageCode = 'en-us'
 title = 'nils notes'
 theme = "hugo-dead-simple"
+[[menu.main]]
+  name = "<u>H</u>ome"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "<u>B</u>ookmarks"
+  url = "bookmarks/"
+  weight = 2
+[[menu.main]]
+  name = "<u>W</u>ebsite"
+  url = "https://www.nilsgandlau.de"
+  weight = 3

@@ -2,6 +2,8 @@
 title: "Book Notes: The Story of More"
 date: 2023-07-21
 draft: false
+toc: true
+nomenu: false
 ---
 
 Notes based on the book [The Story of More by Hope Jahren](https://www.amazon.de/Story-More-Climate-Change-Where/dp/0525563385).
@@ -128,7 +130,7 @@ Plastics are derived from fossil fuels. Oil refineries convert crude oil (Rohöl
 * plastics amounts for 10% of all burned on planet Earth every year
 
 
-## renewables
+## renewables, nuclear
 * 1 average-sized nuclear power plant is equivalent to 80 hydro power plants
 * US is still big on nuclear. 20% of electricity produced in US is nuclear. The US has 100 power plants.
 * almost every (!) power plant (nuclear, hydro, wind, solar) produces energy the same way: by spinning a wheel. There is a pole of iron, wrapped with copper. If you spin that next to a magnet, somehow the mechanical energy is converted into electrical energy ("any sufficiently advanced technology is indistinguishable from magic" -- Arthur C. Clarke).
@@ -139,8 +141,8 @@ Plastics are derived from fossil fuels. Oil refineries convert crude oil (Rohöl
 * In contrast, only 500 nuclear power plants are enough to supply all of America's electricity.
 * A large part of cadmium, copper, lead, zinc, lithium, tellerium used in turbines that create electricity comes from two countries: Peru and Chile.
 
-## plants
 
+## plants, fossil fuels, CO2
 Plants need two things to grow: energy and carbon. The energy comes from the sun. The carbon comes from carbon dioxide, a gas that is found in our air. Thus, in the biomass of plants, there is lots of energy and lots of carbon. When we burn plants, we release both that energy and the carbon. This is the problem with burning fossil fuels: Whenever we burn plants to "produce" energy, we release CO2 into the atmosphere as a side effect.
 
 You can think of "burning" plants in a broader sense. When we eat plant-based food, we, in some sense, "burn" plants in order to use its inherent energy.
