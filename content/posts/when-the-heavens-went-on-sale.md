@@ -1,8 +1,12 @@
 ---
-title: "When the Heavens Went on Sale"
+title: "#book - When the Heavens Went on Sale"
 date: 2023-07-29T20:43:44+02:00
 draft: false 
 ---
+
+When the Heavens went on Sale by Ashlee Vance
+
+![](https://m.media-amazon.com/images/I/41RitC5WhlL._SY264_BO1,204,203,200_QL40_ML2_.jpg)
 
 * Almost always the same pattern of success: Enjoy you work, be curious, work hard, learn a lot, don't be satisfied with "okay" or "good", have an internal drive to perfectionism and to produce great work.
 
