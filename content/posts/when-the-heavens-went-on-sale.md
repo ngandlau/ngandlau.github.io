@@ -43,3 +43,4 @@ Relentless passion of all employees, because they were all space addicts:
 
 > One thing that I hammer home to all of you every week is 'work smart' and the second thing is 'get back to work'
 
+> „That said, there are fifty-six companies saying they're going to build small rockets right now. I know most of them. I would say Stealth Space is the most legit in the US.“ (p. 293)
