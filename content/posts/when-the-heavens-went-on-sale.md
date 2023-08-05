@@ -1,31 +1,42 @@
 ---
-title: "#book - When the Heavens Went on Sale"
+title: "Book Review: When the Heavens Went on Sale by Ashlee Vance"
 date: 2023-07-29T20:43:44+02:00
 draft: false 
 ---
 
-When the Heavens went on Sale by Ashlee Vance
-
 ![](https://m.media-amazon.com/images/I/41RitC5WhlL._SY264_BO1,204,203,200_QL40_ML2_.jpg)
 
-* Almost always the same pattern of success: Enjoy you work, be curious, work hard, learn a lot, don't be satisfied with "okay" or "good", have an internal drive to perfectionism and to produce great work.
+**Success almost always follows the same pattern**: Enjoy your work, be curious, work hard, learn a lot, don't be satisfied with "okay" or "good", have an internal drive to perfectionism and to produce great work.
 
-> "To meet his own exacting standards, Marshall developed a spreadsheet system for quantifying various aspects of his life, which his friends called the **Marshall Matrix**. The prime motivation for the spreadsheets came from Marshall's desire to analyze which of his actions would have the most impact on the world and the betterment of all people. He literally wrote an algorithm designed to result in a meaningful life. As he described it, '"Basically, you list your goals. You list each project and say, 'How does this project help goal number one, how does it help goal number two?'Then 'What's your probability of success? How much money and time will it take?' You divide by that factor, then you multiply by a series of other factors. "I tried to factor in things that you usually miss, like your abilities as compared to other people or, say, difference in participation. Like, is someone else going to do this anyway even if you don't? If so, you should reduce the weight of that project. There were other things like your level of interest or how much work something would be." (p. 79)
+---
+
+**Will Marshall, co-founder of Planet Labs**, is exceptionally rigorous in all aspects of his life. He made spreadsheets for everything. When he discussed philosophical ideas about space with his house-mates, he made a spreadsheet where he kept track of the ideas and ranked them according to their originality. Similarly, he made a spreadsheet for evaluating the problems to work on (this inspired me to make [my own open-source spreadsheet](https://docs.google.com/spreadsheets/d/1iykU0QUByO6Kxhngslgm49OT8o4i6Cje4iGuJ4gu698/edit#gid=0), where I list all kinds of problems in the world that you could work on):
+
+> "...Marshall developed a spreadsheet system for quantifying various aspects of his life, which his friends called the **Marshall Matrix**. The prime motivation for the spreadsheets came from Marshall's desire to analyze which of his actions would have the most impact on the world and the betterment of all people. He literally wrote an algorithm designed to result in a meaningful life. As he described it, '"Basically, you list your goals. You list each project and say, 'How does this project help goal number one, how does it help goal number two?'Then 'What's your probability of success? How much money and time will it take?' You divide by that factor, then you multiply by a series of other factors. "I tried to factor in things that you usually miss, like your abilities as compared to other people or, say, difference in participation. Like, is someone else going to do this anyway even if you don't? If so, you should reduce the weight of that project. There were other things like your level of interest or how much work something would be." (p. 79)
+
+---
 
 People working in space companies are space addicts. They talk about space nonstop, not just at work:
 
 > "...but at night they pondered those questions with friends at the Rainbow Mansion. Marshall, being Marshall, tried to add some rigor to the pondering by creating a spreadsheet that collected and ranked people's ideas." (p.97)
 
-> As on most days, they talked about aerospace nonstop -- not really because they were in the midst of trying to launch a rocket but because they were aerospace obsessives.
+> "As on most days, they talked about aerospace nonstop -- not really because they were in the midst of trying to launch a rocket but because they were aerospace obsessives."
+j^
+---
 
+**When we have a business idea**, a common doubt ruins the mood: "Big corp X has way more money, talent, and experience. Why shouldn't it build innovative product Y? I could never compete against the big guys with infinite resources."
 
-We always think that \<INSERT BIG COMPANY HERE\> is lightyears ahead of everyone else, so why even bother making a startup. The big guys with their resources and years of experience are so much better suited to make <\INSERT INNOVATIVE PRODUCT HERE\>. But that is often not the case. With size comes lethargy.And with experience comes the reluctance to try out new things: You spent years optimizing process X, so why try a new one? The book shows that even presumably innovate companies like NASA lack innovation and a spirit to innovate:
+**Most big corps become lethargic.** Over time, layers of bureaucratic processes stack up, until it becomes impossible to move fast and innovate. Only when a new technology threatens their core business model, big corps begin to move. And at that point, it is often too late. 
 
-> "NASA was meant to be so many steps beyond anything else, and it just wasn't. People were complaining that they didn't have decent computers"
+Apparently, lethargy does not stop at what we think of technologically advanced organizations like NASA. NASA, despite being full of incredibly smart engineers, stacked up layers of bureacratic processes that made them loose their capability to innovate. Innovations in the New Space industry are developed by startups like SpaceX, Planet Labs, Rocket Lab, Astra, and Firefly -- not by NASA.
+
+> "NASA was meant to be so many steps beyond anything else, and it just wasn't. People were complaining that they didn't have decent computers."
 
 > "The problem was, however, that the cutting edge didn't seem to exist. Whether at a company or even NASA, everyone did things the same old way, and these people doing things the same old way didn't seem to have much passion. No one really appeared to have new ideas or want to advance aerospace technology."
 
 > "Beck felt more and more convinced that the aerospace industry had become complacent and fearful as the decades had passed.**A small team with limited resources could accomplish an awful lot if it just thought about problems in inventive ways.**"
+
+Peter Beck, the founder of New Zealand's rocket startup **Rocket Lab**:
 
 > "Beck enjoyed his job so much that Fisher & Paykel could not keep him out of the building. He'd clock in early in the morning and often not leave unil 3:00 a.m."
 
@@ -39,8 +50,6 @@ We always think that \<INSERT BIG COMPANY HERE\> is lightyears ahead of everyone
 
 > Rockets are not supercomplicated. If it looks complicated, it's because you haven't broken it down into enough chunks yet. The key to building a rocket is breaking it into tiny little chunks (p. 313)
 
-Relentless passion of all employees, because they were all space addicts:
-
-> One thing that I hammer home to all of you every week is 'work smart' and the second thing is 'get back to work'
+There is so much BS in the space. Hundreds of space companies. Yet most of them are scam. Space is a business that looses money 99% of the time. Max Polyakov bought a pre-existing (!) rocket startup and burned $150M cash in order to make the first flight attempt (it was semi-successful). For most investors, space is a hobby, a passion project, rather than a serious business.
 
 > „That said, there are fifty-six companies saying they're going to build small rockets right now. I know most of them. I would say Stealth Space is the most legit in the US.“ (p. 293)
