@@ -1,7 +1,7 @@
 baseURL = 'https://nilsgandlau.de'
 languageCode = 'en-us'
 title = 'nils notes'
-theme = "hugo-dead-simple"
+theme = "hugo-dead-simple-customized"
 [[menu.main]]
   name = "<u>H</u>ome"
   url = "/"
