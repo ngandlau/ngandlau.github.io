@@ -8,6 +8,10 @@ draft: false
 
 **Success almost always follows the same pattern**: Enjoy your work, be curious, work hard, learn a lot, don't be satisfied with "okay" or "good", have an internal drive to perfectionism and to produce great work.
 
+**Both founders and employees** of rocket startups become consumed by their job. Peter Beck, founder of Rocket Lab, seemed to be exceptionally obsessed. He came in at 7am, and didn't leave before 10pm, sometimes staying until past midnight. His work ethic was a role model for his employees. The founder outworked everyone.
+
+> "...we'd be working on a problem, and he would go home at night and make something in his home workshop and prove the theory wrong or right."
+
 ---
 
 **Will Marshall, co-founder of Planet Labs**, is exceptionally rigorous in all aspects of his life. He made spreadsheets for everything. When he discussed philosophical ideas about space with his house-mates, he made a spreadsheet where he kept track of the ideas and ranked them according to their originality. Similarly, he made a spreadsheet for evaluating the problems to work on (this inspired me to make [my own open-source spreadsheet](https://docs.google.com/spreadsheets/d/1iykU0QUByO6Kxhngslgm49OT8o4i6Cje4iGuJ4gu698/edit#gid=0), where I list all kinds of problems in the world that you could work on):
@@ -46,6 +50,8 @@ Peter Beck, the founder of New Zealand's rocket startup **Rocket Lab**:
 
 > "Like a man posessed, Beck began building his first rocket. The project required that he once again experiment with propellants. This time around it was not so much about refining the chemicals as finding the right recipe of explosives to combine. Knowing almost nothing about chemistry, he read books on the subject and sought advice from anyone who could help, including scientists working down the hallway." (When the Heavens went on Sale, p.181)
 
+> "But with Pete [Peter Beck], we'd be working on a problem, and he would go home at night and make something in his home workshop and prove the theory wrong or right."
+
 > [Peter Beck:] "I've since learned that I should times everything by pi. The amount of time and cost is usually about 3.14 times what you think it will be."
 
 > Rockets are not supercomplicated. If it looks complicated, it's because you haven't broken it down into enough chunks yet. The key to building a rocket is breaking it into tiny little chunks (p. 313)
@@ -53,3 +59,29 @@ Peter Beck, the founder of New Zealand's rocket startup **Rocket Lab**:
 There is so much BS in the space. Hundreds of space companies. Yet most of them are scam. Space is a business that looses money 99% of the time. Max Polyakov bought a pre-existing (!) rocket startup and burned $150M cash in order to make the first flight attempt (it was semi-successful). For most investors, space is a hobby, a passion project, rather than a serious business.
 
 > „That said, there are fifty-six companies saying they're going to build small rockets right now. I know most of them. I would say Stealth Space is the most legit in the US.“ (p. 293)
+
+--- 
+
+After seeing SpaceX engineers in T-shirts, working hands-on on the rocket:
+
+> "At some point, it just clicked to me that, man, there's a whole world about pretending that you're doing things, and then there's a world about really doing things."
+
+I often feel the same. I think most people do. At some point, everyone doubts the purpose of their daily job. Especially large corporations create lots of "Bullshit Jobs".
+
+---
+
+If you work on Space, you must be a dreamer. Rationality kills you. Max Polyakov, the investor of Firefly, said to his employees:
+
+> "If things are not going well at the company, and you're becoming too rational, you can email me."
+
+I find that very interesting. That is very American. Space has the ultimate American spirit. Americans have dreams, we have doubts. Richard David Precht said something in those lines in a recent podcast:
+
+> "Jemand der etwas erreichen will, sucht sich *Ziele* und jemand der etwas verhindern will, sucht sich *Gründe*. [...] Jemand der *für* etwas ist, macht sich angreifbar. Jemand der *gegen* etwas ist nicht." (Lanz & Precht Podcast, Episode #100)
+
+---
+
+All rocket startups have a similar goal, yet approach that goal with a different culture.
+
+* **SpaceX** is all about moving fast, regardless of the cost. If you can make something 2x faster, but you need 4x the money, SpaceX is happy to do that deal.
+* **Rocket Lab** is about moving fast, making things beautiful, all while under under the constraint of a stricter budget. This culture lead to the engineers building their own things instead of buying expensive machines and space-grade materials.
+* **Blue Origin**, the company of the "relentless" Jeff Bezos, is, ironically, all about moving slow but persistent. According to the book, Blue Origin is the company with the best work-life-balance. Employees are actively discouraged to work day and night, as in the other rocket startups. Who would have thought...
