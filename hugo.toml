@@ -2,6 +2,8 @@ baseURL = 'https://nilsgandlau.de'
 languageCode = 'en-us'
 title = 'nils notes'
 theme = "hugo-dead-simple-customized"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
   name = "<u>H</u>ome"
   url = "/"
