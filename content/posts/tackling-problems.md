@@ -36,3 +36,13 @@ Bryson Gentile is a former SpaceX engineer.
 
 ## Greg Yang
 [Greg Yang](https://twitter.com/TheGregYang), a mathematician working at x.Ai has read like 1000 textbooks on every mathematical subject ever. Basically he gained all his knowledge from textbooks. This made we wonder: is reading textbooks more valuable (in terms of the $ return you get from reading) than fiction/non-fiction books? 
+
+## Elon Musk
+
+Elon Musk lays out some of his engineering principles in this [video](https://www.youtube.com/watch?v=hhuaVsOAMFc). He advocates the following ordered steps:
+
+1. **make requirements less dumb**: We are trained to optimize whatever thing we're given, without questioning the thing itself. To Elon, "*the most common error of a smart engineer is to optimize a thing that should not exist.*".
+2. **delete** as many steps as possible; and add things back in if really needed. Elon: "
+If you are not occasionally adding things back in, you are not deleting enough.*".
+3. **simplify/optimize**. Only when you checked the requirements and deleted as many things as possible, you should begin to optimize. Otherwise you optimize the wrong thing.
+4. **automate**.
